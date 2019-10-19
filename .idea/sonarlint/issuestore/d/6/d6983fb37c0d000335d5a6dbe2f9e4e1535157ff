@@ -1,0 +1,17 @@
+
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(þöì¦ùÿÿÿÿ
+=squid:S1989T"&Add a "try/catch" block for "forward".(ôª¥‹
+@squid:S3330"$Add the "HttpOnly" cookie attribute.(–¾‡·ùÿÿÿÿ
+Asquid:S1989"%Add a "try/catch" block for "encode".(–¾‡·ùÿÿÿÿ
+_squid:S1192"HDefine a constant instead of duplicating this literal "remname" 3 times.(ˆÒŽ
+Vsquid:S2441Q":Make "User" serializable or don't store it in the session.(£™Õàûÿÿÿÿ
+=squid:S1989T"&Add a "try/catch" block for "forward".(ôª¥‹
+Gsquid:S1989X"+Add a "try/catch" block for "sendRedirect".(À¯è§úÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢§Ñùÿÿÿÿ
+Asquid:S1989]"%Add a "try/catch" block for "doPost".(³æ£õùÿÿÿÿ
+@squid:S3330$"$Add the "HttpOnly" cookie attribute.(óÊ¾Ãùÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+Vsquid:S1161\":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+<squid:S1989,"%Add a "try/catch" block for "encode".(‡÷‚ã
+Asquid:S1989]"%Add a "try/catch" block for "doPost".(³æ£õùÿÿÿÿ
+;squid:S3330,"$Add the "HttpOnly" cookie attribute.(‡÷‚ã

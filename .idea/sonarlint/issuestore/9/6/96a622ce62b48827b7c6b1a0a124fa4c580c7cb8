@@ -1,0 +1,12 @@
+
+csquid:S00112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+?squid:S11482"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Tsquid:S1854@"8Remove this useless assignment to local variable "stat".(‹Ö¿¤øÿÿÿÿ
+?squid:S1148="#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:S00112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Rsquid:S18545"6Remove this useless assignment to local variable "rs".(ŒÇ›ðùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–¼’ˆûÿÿÿÿ
+Tsquid:S1854J"8Remove this useless assignment to local variable "conn".(€×³›ÿÿÿÿÿ
+csquid:S00112("FDefine and throw a dedicated exception instead of using a generic one.(þ¸…çøÿÿÿÿ
+csquid:S001123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+?squid:S1148G"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
